@@ -1,5 +1,5 @@
 .prettierrc.json
-
+.idea
 # Logs
 logs
 *.log
